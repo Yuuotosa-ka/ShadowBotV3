@@ -21,6 +21,9 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: Bruno Sobrino* 
 ║➤ *Numero del creador:* *wa.me/17722386341 (No Bot)*
+║➤ *Editor: ⸂ᗧⴷⴽⴿ󠀬 ソⵡヱ⸃*
+║➤ *Número del editor:* *wa.me/50584528742*
+║➤ *IG del editor:* *instagram.com/Otosaka_Yuu0264*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
 ║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
 ║➤ *Numero del Sub Bot oficial:* *wa.me/5219992095479*
