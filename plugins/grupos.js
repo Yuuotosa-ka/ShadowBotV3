@@ -12,6 +12,11 @@ let info = `
 *_4.-_* *https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC*
 
 *_5.-_* *https://chat.whatsapp.com/H7NUXdrGlFg20ae3bqgwlb*
+
+*_➤ Grupo para pasar el rato:_*
+
+*_1.-_* *https://chat.whatsapp.com/FWudhEVhEyWAgeZW78sUCL* 
+
 `.trim() 
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 THE SHADOW BROKERS - BOT 🔥*', 'status@broadcast')
